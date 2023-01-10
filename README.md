@@ -1,6 +1,6 @@
 ![Header](https://github.com/Nevilant/nevilant/blob/main/assets/logo.png)
 
-About Me
+## I'm begginer QA and it's my portolio.
 
 Language and Tools
 
