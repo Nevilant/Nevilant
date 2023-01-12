@@ -1,7 +1,7 @@
 ![Header](https://github.com/Nevilant/nevilant/blob/main/assets/logo.png)
 
 ## I'm begginer QA and it's my portolio.
-[My CV](https://disk.yandex.ru/i/7kbhiEf8srCVmw)
+[My CV](https://disk.yandex.ru/i/GRq5Qjr8NTHRAA)
 
 ### Language and Tools
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=appveyor)
