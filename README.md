@@ -9,8 +9,8 @@
 ![Redmine](https://img.shields.io/badge/-Redmine-090909?style=for-the-badge&logo=Redmine)
 
 ### Testing Documentations
-[Test cases](https://github.com/Nevilant/test_cases)
-[Check lists](https://github.com/Nevilant/check_lists)
+- [Test cases](https://github.com/Nevilant/test_cases)
+- [Check lists](https://github.com/Nevilant/check_lists)
 
 ### I study...
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
