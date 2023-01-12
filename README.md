@@ -9,7 +9,7 @@
 ![Redmine](https://img.shields.io/badge/-Redmine-090909?style=for-the-badge&logo=Redmine)
 
 ### Testing Documentations
-
+[Test cases](https://github.com/Nevilant/test_cases)
 ### I study...
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium)
