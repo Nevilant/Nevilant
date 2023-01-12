@@ -11,6 +11,7 @@
 ### Testing Documentations
 - [Test cases](https://github.com/Nevilant/test_cases)
 - [Check lists](https://github.com/Nevilant/check_lists)
+- [Bug and improve reports](https://github.com/Nevilant/bugs_and_improves_reports)
 
 ### I study...
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
