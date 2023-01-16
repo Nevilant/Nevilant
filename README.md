@@ -19,3 +19,5 @@
 ![SQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
 
 ### Follow Me
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevilant)](https://github.com/anuraghazra/github-readme-stats)
