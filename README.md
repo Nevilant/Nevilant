@@ -17,6 +17,8 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium)
 ![SQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
 
 ### Follow Me
 
