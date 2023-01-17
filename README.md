@@ -20,7 +20,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
 
-### Follow Me
+### Contact info
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/nevilant)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](www.linkedin.com/in/valentinlebedev)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevilant)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevilant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
